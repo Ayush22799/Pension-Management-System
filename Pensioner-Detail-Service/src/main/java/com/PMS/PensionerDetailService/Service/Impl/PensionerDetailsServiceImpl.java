@@ -1,7 +1,6 @@
 package com.PMS.PensionerDetailService.Service.Impl;
 
 
-import Response.*;
 import com.PMS.PensionerDetailService.Entity.BankDetail;
 import com.PMS.PensionerDetailService.Entity.PensionerDetail;
 import com.PMS.PensionerDetailService.Service.PensionerDetailsService;

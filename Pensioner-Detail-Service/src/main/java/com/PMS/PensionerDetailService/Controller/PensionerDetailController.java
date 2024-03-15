@@ -1,6 +1,5 @@
 package com.PMS.PensionerDetailService.Controller;
 
-import Response.Response;
 import com.PMS.PensionerDetailService.Entity.PensionerDetail;
 import com.PMS.PensionerDetailService.Service.PensionerDetailsService;
 import org.springframework.beans.factory.annotation.Autowired;
